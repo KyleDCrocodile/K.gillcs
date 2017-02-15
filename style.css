@@ -10,6 +10,8 @@ ul {
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
+    text-align: center;
+
 }
 
 li a {
@@ -17,9 +19,13 @@ li a {
     color: green;
     padding: 8px 16px;
     text-decoration: none;
+    text-align: center;
+
 }
 
 li a:hover {
     background-color: #555;
     color: white;
+    text-align: center;
+
 }
