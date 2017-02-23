@@ -22,6 +22,7 @@ li a {
     text-align: center;
     background-color: aqua;
 float: left;
+  overflow: hidden;
 }
 
 li a:hover {
