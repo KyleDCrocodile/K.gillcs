@@ -5,9 +5,7 @@ color: black;
   text-align: center;
 }
 
-li {
-  float: left;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
