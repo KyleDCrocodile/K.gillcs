@@ -15,8 +15,6 @@ ul {
   width: 1300;
 }
 li a {
-  list-style-type: none;
-  margin: 0;
     display: block;
     color: green;
      width: 200px;
@@ -24,8 +22,6 @@ li a {
     text-decoration: none;
     text-align: center;
     background-color: #003791;
-float: left;
-  overflow: hidden;
 }
 
 li a:hover {
