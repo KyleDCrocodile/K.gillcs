@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-  width: 1300;
+  width: fill;
 }
 li a {
     display: block;
