@@ -3,7 +3,7 @@ body{
 color: black;
   font-family: fantasy;
   text-align: center;
-  margin: auto;
+  margin: center;
 }
  li{
    float: left;
