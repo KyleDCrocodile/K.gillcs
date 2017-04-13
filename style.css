@@ -74,11 +74,7 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
-Img{
- border-style: dashed;
-  border-width: 5px;
-  border-color: green;
-}
+
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
